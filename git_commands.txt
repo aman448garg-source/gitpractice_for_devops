@@ -4,3 +4,7 @@ git add = to staged a file
 git rm --chached = to unstaged file 
 git commit = to track a file
 git restore = to restore delete 
+
+
+
+this is new changes
